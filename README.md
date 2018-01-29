@@ -1,4 +1,4 @@
 # SourcetreeTest
 a test repository of sourcetree
 
-edit develop
+edit develop2
